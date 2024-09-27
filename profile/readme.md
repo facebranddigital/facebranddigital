@@ -8,3 +8,8 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 
 ## Skills
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and poliglot
+
+## Hobbies
+-Studying languages
+-Do extreme sports
+-Work hard and smart
