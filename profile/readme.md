@@ -16,10 +16,10 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 -Do extreme sports
 -Work hard and smart
 
-Calle 2 # 94 - 46 Cali, Valle del Cauca.
+Calle 0 # 00 - 00 Cali, Valle del Cauca.
 eversozinho@gmail.com   
 Pasaporte AT 8888   
-321 811 9383
+321 666 6666
 
 ## technologies
 
