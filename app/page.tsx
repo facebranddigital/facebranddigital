@@ -16,14 +16,14 @@ const copy: Record<string, Record<string, string>> = {
 }
 
 const services = [
-  { icon: Code2, number: '01', title: 'Web + WhatsApp sync', text: 'Conversion-ready websites connected to WhatsApp Business—so every inquiry has somewhere useful to go.', tag: 'WEB / AUTOMATION' , video: '/videos/web-whatsapp-sync.mp4' , video: '/videos/web-whatsapp-sync.mp4' },
-  { icon: ArrowUpRight, number: '02', title: 'Digital marketing', text: 'Intent-led Google Ads and performance campaigns built to turn attention into measurable growth.', tag: 'GOOGLE ADS / GROWTH' },
-  { icon: Film, number: '03', title: 'Video production', text: 'Commercial, social, and corporate edits with the clarity to stop the scroll and tell your story.', tag: 'CONTENT / CREATIVE' },
-  { icon: ShieldCheck, number: '04', title: 'Cybersecurity', text: 'Practical audits and resilient infrastructure that help protect the digital assets you rely on.', tag: 'SECURITY / TRUST' },
-  { icon: SearchCheck, number: '05', title: 'QA automation', text: 'Thoughtful end-to-end testing for dependable releases across your web products and platforms.', tag: 'QUALITY / ENGINEERING' },
-  { icon: Workflow, number: '06', title: 'Process management', text: 'We make administrative, regulatory, and corporate processes feel more manageable.', tag: 'OPERATIONS / PROCESS' },
-  { icon: Settings2, number: '07', title: 'Supplier management', text: 'Find, vet, and coordinate dependable partners across your supply chain.', tag: 'SOURCING / OPERATIONS' },
-  { icon: Handshake, number: '08', title: 'B2B connections', text: 'Thoughtful introductions that connect ambitious businesses with the right corporate partners.', tag: 'NETWORK / PARTNERSHIPS' },
+  { icon: Code2, number: '01', title: 'Web + WhatsApp sync', text: 'Conversion-ready websites connected to WhatsApp Business—so every inquiry has somewhere useful to go.', tag: 'WEB / AUTOMATION', video: '/videos/web-whatsapp-sync.mp4' },
+  { icon: ArrowUpRight, number: '02', title: 'Digital marketing', text: 'Intent-led Google Ads and performance campaigns built to turn attention into measurable growth.', tag: 'GOOGLE ADS / GROWTH', video: '/videos/Digital marketing.mp4' },
+  { icon: Film, number: '03', title: 'Video production', text: 'Commercial, social, and corporate edits with the clarity to stop the scroll and tell your story.', tag: 'CONTENT / CREATIVE' , video: '/videos/Video production.mp4'},
+  { icon: ShieldCheck, number: '04', title: 'Cybersecurity', text: 'Practical audits and resilient infrastructure that help protect the digital assets you rely on.', tag: 'SECURITY / TRUST', video: '/videos/Cybersecurity.mp4' },
+  { icon: SearchCheck, number: '05', title: 'QA automation', text: 'Thoughtful end-to-end testing for dependable releases across your web products and platforms.', tag: 'QUALITY / ENGINEERING', video: '/videos/QA automation.mp4' },
+  { icon: Workflow, number: '06', title: 'Process management', text: 'We make administrative, regulatory, and corporate processes feel more manageable.', tag: 'OPERATIONS / PROCESS', video: '/videos/Process management.mp4' },
+  { icon: Settings2, number: '07', title: 'Supplier management', text: 'Find, vet, and coordinate dependable partners across your supply chain.', tag: 'SOURCING / OPERATIONS', video: '/videos/Supplier management.mp4' },
+  { icon: Handshake, number: '08', title: 'B2B connections', text: 'Thoughtful introductions that connect ambitious businesses with the right corporate partners.', tag: 'NETWORK / PARTNERSHIPS', video: '/videos/B2B connections.mp4' },
 ]
 const capabilities = ['Web development', 'Google Ads', 'Video production', 'Cybersecurity', 'QA automation', 'Business operations', 'Supplier network', 'B2B partnerships']
 
